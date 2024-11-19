@@ -1,0 +1,10 @@
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.csproj.AssemblyReference.cache
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.Form1.resources
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.Properties.Resources.resources
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.csproj.GenerateResource.cache
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.csproj.CoreCompileInputs.cache
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\bin\Debug\RandPassGenerator.exe.config
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\bin\Debug\RandPassGenerator.exe
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\bin\Debug\RandPassGenerator.pdb
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.exe
+D:\Document\CSharp\Scripts\School\RandPassGenerator\RandPassGenerator\obj\Debug\RandPassGenerator.pdb
